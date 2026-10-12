@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Chennai,2025-10-20,Built-Up,35.014,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2025-10-20,Vegetation,63.196,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2025-10-20,Agriculture,90.158,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2025-10-20,Water,10.248,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2025-10-20,Bare Land,14.762,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2026-10-05,Built-Up,38.69,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2026-10-05,Vegetation,60.352,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2026-10-05,Agriculture,87.904,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2026-10-05,Water,10.33,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Chennai,2026-10-05,Bare Land,15.279,13.0827,80.2707,DEMO — synthetic illustrative values only; not derived from satellite imagery

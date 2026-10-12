@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Bengaluru,2025-10-20,Built-Up,36.736,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2025-10-20,Vegetation,66.304,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2025-10-20,Agriculture,94.592,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2025-10-20,Water,10.752,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2025-10-20,Bare Land,15.488,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2026-10-05,Built-Up,40.777,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2026-10-05,Vegetation,63.32,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2026-10-05,Agriculture,92.227,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2026-10-05,Water,10.838,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bengaluru,2026-10-05,Bare Land,16.03,12.9716,77.5946,DEMO — synthetic illustrative values only; not derived from satellite imagery

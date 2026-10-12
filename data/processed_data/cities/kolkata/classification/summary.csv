@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Kolkata,2025-10-20,Built-Up,28.413,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2025-10-20,Vegetation,51.282,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2025-10-20,Agriculture,73.161,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2025-10-20,Water,8.316,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2025-10-20,Bare Land,11.979,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2026-10-05,Built-Up,31.68,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2026-10-05,Vegetation,48.974,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2026-10-05,Agriculture,71.332,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2026-10-05,Water,8.383,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolkata,2026-10-05,Bare Land,12.398,22.5726,88.3639,DEMO — synthetic illustrative values only; not derived from satellite imagery

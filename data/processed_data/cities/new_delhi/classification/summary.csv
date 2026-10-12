@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+New Delhi,2025-10-20,Built-Up,30.135,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2025-10-20,Vegetation,54.39,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2025-10-20,Agriculture,77.595,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2025-10-20,Water,8.82,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2025-10-20,Bare Land,12.705,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2026-10-05,Built-Up,33.149,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2026-10-05,Vegetation,51.942,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2026-10-05,Agriculture,75.655,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2026-10-05,Water,8.891,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery
+New Delhi,2026-10-05,Bare Land,13.15,28.6139,77.209,DEMO — synthetic illustrative values only; not derived from satellite imagery

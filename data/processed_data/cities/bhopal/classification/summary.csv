@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Bhopal,2025-10-20,Built-Up,31.57,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2025-10-20,Vegetation,56.98,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2025-10-20,Agriculture,81.29,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2025-10-20,Water,9.24,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2025-10-20,Bare Land,13.31,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2026-10-05,Built-Up,35.201,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2026-10-05,Vegetation,54.416,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2026-10-05,Agriculture,79.258,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2026-10-05,Water,9.314,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Bhopal,2026-10-05,Bare Land,13.776,23.2599,77.4126,DEMO — synthetic illustrative values only; not derived from satellite imagery

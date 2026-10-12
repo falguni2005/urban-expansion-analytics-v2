@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Solapur,2025-10-20,Built-Up,33.579,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2025-10-20,Vegetation,60.606,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2025-10-20,Agriculture,86.463,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2025-10-20,Water,9.828,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2025-10-20,Bare Land,14.157,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2026-10-05,Built-Up,37.273,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2026-10-05,Vegetation,57.879,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2026-10-05,Agriculture,84.301,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2026-10-05,Water,9.907,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Solapur,2026-10-05,Bare Land,14.652,17.6599,75.9064,DEMO — synthetic illustrative values only; not derived from satellite imagery

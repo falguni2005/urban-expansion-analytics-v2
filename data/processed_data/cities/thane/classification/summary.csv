@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Thane,2025-10-20,Built-Up,26.978,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2025-10-20,Vegetation,48.692,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2025-10-20,Agriculture,69.466,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2025-10-20,Water,7.896,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2025-10-20,Bare Land,11.374,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2026-10-05,Built-Up,29.676,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2026-10-05,Vegetation,46.501,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2026-10-05,Agriculture,67.729,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2026-10-05,Water,7.959,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Thane,2026-10-05,Bare Land,11.772,19.2183,72.9781,DEMO — synthetic illustrative values only; not derived from satellite imagery

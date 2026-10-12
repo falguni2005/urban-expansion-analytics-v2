@@ -1,0 +1,1 @@
+Contains processed-data demo CSVs for 20 cities and city_locations.csv. Land-use areas are synthetic illustrative demo values, not satellite-derived measurements. Replace with actual processed classification output before academic reporting.

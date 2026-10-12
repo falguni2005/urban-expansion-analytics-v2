@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Ahmedabad,2025-10-20,Built-Up,23.534,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2025-10-20,Vegetation,42.476,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2025-10-20,Agriculture,60.598,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2025-10-20,Water,6.888,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2025-10-20,Bare Land,9.922,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2026-10-05,Built-Up,26.123,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2026-10-05,Vegetation,40.565,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2026-10-05,Agriculture,59.083,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2026-10-05,Water,6.943,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Ahmedabad,2026-10-05,Bare Land,10.269,23.0225,72.5714,DEMO — synthetic illustrative values only; not derived from satellite imagery

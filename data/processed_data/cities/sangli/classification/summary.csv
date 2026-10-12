@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Sangli,2025-10-20,Built-Up,35.301,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2025-10-20,Vegetation,63.714,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2025-10-20,Agriculture,90.897,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2025-10-20,Water,10.332,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2025-10-20,Bare Land,14.883,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2026-10-05,Built-Up,39.361,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2026-10-05,Vegetation,60.847,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2026-10-05,Agriculture,88.625,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2026-10-05,Water,10.415,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Sangli,2026-10-05,Bare Land,15.404,16.8524,74.5815,DEMO — synthetic illustrative values only; not derived from satellite imagery

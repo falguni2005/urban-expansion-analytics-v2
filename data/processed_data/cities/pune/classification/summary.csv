@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Pune,2025-10-20,Built-Up,20.664,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2025-10-20,Vegetation,37.296,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2025-10-20,Agriculture,53.208,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2025-10-20,Water,6.048,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2025-10-20,Bare Land,8.712,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2026-10-05,Built-Up,22.73,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2026-10-05,Vegetation,35.618,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2026-10-05,Agriculture,51.878,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2026-10-05,Water,6.096,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Pune,2026-10-05,Bare Land,9.017,18.5204,73.8567,DEMO — synthetic illustrative values only; not derived from satellite imagery

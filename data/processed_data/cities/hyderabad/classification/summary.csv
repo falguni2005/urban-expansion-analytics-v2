@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Hyderabad,2025-10-20,Built-Up,25.256,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2025-10-20,Vegetation,45.584,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2025-10-20,Agriculture,65.032,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2025-10-20,Water,7.392,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2025-10-20,Bare Land,10.648,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2026-10-05,Built-Up,28.16,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2026-10-05,Vegetation,43.533,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2026-10-05,Agriculture,63.406,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2026-10-05,Water,7.451,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Hyderabad,2026-10-05,Bare Land,11.021,17.385,78.4867,DEMO — synthetic illustrative values only; not derived from satellite imagery

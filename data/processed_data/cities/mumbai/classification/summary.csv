@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Mumbai,2025-10-20,Built-Up,25.543,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2025-10-20,Vegetation,46.102,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2025-10-20,Agriculture,65.771,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2025-10-20,Water,7.476,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2025-10-20,Bare Land,10.769,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2026-10-05,Built-Up,28.225,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2026-10-05,Vegetation,44.027,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2026-10-05,Agriculture,64.127,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2026-10-05,Water,7.536,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Mumbai,2026-10-05,Bare Land,11.146,19.076,72.8777,DEMO — synthetic illustrative values only; not derived from satellite imagery

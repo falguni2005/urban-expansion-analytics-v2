@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Nagpur,2025-10-20,Built-Up,28.7,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2025-10-20,Vegetation,51.8,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2025-10-20,Agriculture,73.9,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2025-10-20,Water,8.4,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2025-10-20,Bare Land,12.1,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2026-10-05,Built-Up,31.713,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2026-10-05,Vegetation,49.469,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2026-10-05,Agriculture,72.053,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2026-10-05,Water,8.467,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Nagpur,2026-10-05,Bare Land,12.523,21.1458,79.0882,DEMO — synthetic illustrative values only; not derived from satellite imagery

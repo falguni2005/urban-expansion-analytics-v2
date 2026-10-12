@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Kolhapur,2025-10-20,Built-Up,30.422,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2025-10-20,Vegetation,54.908,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2025-10-20,Agriculture,78.334,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2025-10-20,Water,8.904,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2025-10-20,Bare Land,12.826,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2026-10-05,Built-Up,33.768,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2026-10-05,Vegetation,52.437,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2026-10-05,Agriculture,76.376,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2026-10-05,Water,8.975,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Kolhapur,2026-10-05,Bare Land,13.275,16.705,74.2433,DEMO — synthetic illustrative values only; not derived from satellite imagery

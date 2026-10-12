@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Satara,2025-10-20,Built-Up,22.099,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2025-10-20,Vegetation,39.886,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2025-10-20,Agriculture,56.903,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2025-10-20,Water,6.468,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2025-10-20,Bare Land,9.317,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2026-10-05,Built-Up,24.64,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2026-10-05,Vegetation,38.091,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2026-10-05,Agriculture,55.48,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2026-10-05,Water,6.52,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Satara,2026-10-05,Bare Land,9.643,17.6805,74.0183,DEMO — synthetic illustrative values only; not derived from satellite imagery

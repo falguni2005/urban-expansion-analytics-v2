@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Jaipur,2025-10-20,Built-Up,33.292,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2025-10-20,Vegetation,60.088,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2025-10-20,Agriculture,85.724,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2025-10-20,Water,9.744,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2025-10-20,Bare Land,14.036,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2026-10-05,Built-Up,36.621,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2026-10-05,Vegetation,57.384,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2026-10-05,Agriculture,83.581,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2026-10-05,Water,9.822,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Jaipur,2026-10-05,Bare Land,14.527,26.9124,75.7873,DEMO — synthetic illustrative values only; not derived from satellite imagery

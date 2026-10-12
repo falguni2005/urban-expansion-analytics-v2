@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Surat,2025-10-20,Built-Up,21.812,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2025-10-20,Vegetation,39.368,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2025-10-20,Agriculture,56.164,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2025-10-20,Water,6.384,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2025-10-20,Bare Land,9.196,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2026-10-05,Built-Up,24.102,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2026-10-05,Vegetation,37.596,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2026-10-05,Agriculture,54.76,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2026-10-05,Water,6.435,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Surat,2026-10-05,Bare Land,9.518,21.1702,72.8311,DEMO — synthetic illustrative values only; not derived from satellite imagery

@@ -1,0 +1,11 @@
+city,date,class_name,area_square_km,latitude,longitude,data_status
+Indore,2025-10-20,Built-Up,26.691,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2025-10-20,Vegetation,48.174,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2025-10-20,Agriculture,68.727,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2025-10-20,Water,7.812,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2025-10-20,Bare Land,11.253,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2026-10-05,Built-Up,29.627,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2026-10-05,Vegetation,46.006,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2026-10-05,Agriculture,67.009,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2026-10-05,Water,7.874,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
+Indore,2026-10-05,Bare Land,11.647,22.7196,75.8577,DEMO — synthetic illustrative values only; not derived from satellite imagery
